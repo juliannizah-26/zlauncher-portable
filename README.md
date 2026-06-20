@@ -12,7 +12,8 @@
 - Prasyarat: Microsoft Edge WebView2
 - Installer tersedia di folder _CommonRedist
 - Wajib diinstall di Server dan Client
-- Download dan install Z-Launcher, arahkan ke folder Z-Launcher(ID)
+- Download Z-launcher di [pointblank.id](https://pointblank.id/game/download)
+- Install Z-Launcher, arahkan ke folder Z-Launcher(ID)
 - Install PointBlank, arahkan ke folder PointBlank ID
 - Jalankan Z-Launcher-Portable.exe (Administrator jika perlu)
 
