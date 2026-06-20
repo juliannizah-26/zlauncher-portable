@@ -15,6 +15,7 @@
 - Download Z-launcher di [pointblank.id](https://pointblank.id/game/download)
 - Install Z-Launcher, arahkan ke folder Z-Launcher(ID)
 - Install PointBlank, arahkan ke folder PointBlank ID
+- Jalankan Z-launchernya
 - Jalankan Z-Launcher-Portable.exe (Administrator jika perlu)
 
 ---
