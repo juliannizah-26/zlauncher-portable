@@ -1,7 +1,11 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=FFD966&center=true&width=500&height=60&lines=Z-LAUNCHER+PORTABLE;POINTBLANK+LAUNCHER" alt="Typing" /></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bc6d419-c60d-4fd9-9c4b-da9b49b72d6a" width="100" alt="Z-Launcher Portable"/>
+</p>
+
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00B4D8&center=true&width=500&height=60&lines=Z-LAUNCHER+ID;POINT+BLANK+ID" alt="Typing" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="Windows" />
   <img src="https://img.shields.io/badge/Environment-Server%20%26%20Client-orange?style=for-the-badge" alt="Environment" />
 </p>
 
@@ -9,13 +13,11 @@
 
 ## 🚀 Cara Pakai
 
-- Prasyarat: Microsoft Edge WebView2
-- Installer tersedia di folder _CommonRedist
-- Wajib diinstall di Server dan Client
-- Download Z-launcher di [pointblank.id](https://pointblank.id/game/download)
-- Install Z-Launcher, arahkan ke folder Z-Launcher(ID)
-- Install PointBlank, arahkan ke folder PointBlank ID
-- Jalankan Z-launchernya
-- Jalankan Z-Launcher-Portable.exe (Administrator jika perlu)
 
----
+
+### Langkah-langkah
+1. Download Z-launcher dari [pointblank.id](https://pointblank.id/game/download)
+2. Install Z-launcher, arahkan lokasi instalasi ke folder **Z-Launcher(ID)**
+3. Install Point Blank, arahkan lokasi instalasi ke folder **PointBlank ID**
+4. Jalankan **Z-Launcher-Portable.exe** (Administrator jika diperlukan)
+   - Pertama kali jalan di **Server** — registry akan di-export ke `_AppRegistry/`
