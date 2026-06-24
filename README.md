@@ -13,11 +13,21 @@
 
 ## 🚀 Cara Pakai
 
-
-
 ### Langkah-langkah
 1. Download Z-launcher dari [pointblank.id](https://pointblank.id/game/download)
 2. Install Z-launcher, arahkan lokasi instalasi ke folder **Z-Launcher(ID)**
 3. Install Point Blank, arahkan lokasi game ke folder **PointBlank ID**
 4. Jalankan **Z-Launcher-Portable.exe** (Administrator jika diperlukan)
    - Pertama kali jalan di **Server** — registry akan di-export ke `_AppRegistry/`
+   
+## Struktur Folder
+
+```
+Z-Launcher-Portable/
+├── Z-Launcher-Portable.exe   # Launcher utama
+├── Z-Launcher(ID)/           # Folder instalasi Z-Launcher
+├── PointBlank ID/            # Folder instalasi PointBlank
+├── _AppRegistry/             # Hasil export registry (server)
+├── z_Settings.bat            # Buka PBConfig.exe
+└── z_Uninstall.bat           # Hapus semua
+```
