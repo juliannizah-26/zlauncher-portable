@@ -18,7 +18,7 @@
 3. Jalankan **Z-Launcher-Portable.exe** (Untuk Membuat Folder Otomatis)
 3. Install Z-launcher, arahkan lokasi instalasi ke folder **Z-Launcher(ID)**
 4. Install Point Blank, arahkan lokasi game ke folder **PointBlank ID**
-5. Jalankan **Z-Launcher-Portable.exe** (Administrator jika diperlukan)
+5. Jalankan kembali **Z-Launcher-Portable.exe** (Administrator jika diperlukan)
    - Pertama kali jalan di **Server** — registry akan di-export ke `_AppRegistry/`
    
 ## Struktur Folder
